@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="arrays_province">
+        <item>广东</item>
+        <item>广西</item>
+        <item>北京</item>
+        <item>上海</item>
+        <item>云南</item>
+        <item>贵州</item>
+        <item>浙江</item>
+        <item>陕西</item>
+        <item>甘肃</item>
+    </string-array>
+    
+    <string-array name="arrays_city">
+        <item>City1</item>
+        <item>City2</item>
+        <item>City3</item>
+        <item>City4</item>
+        <item>City5</item>
+        <item>City6</item>
+        <item>City7</item>
+        <item>City8</item>
+        <item>City9</item>
+        <item>City10</item>
+        <item>City11</item>
+        <item>City12</item>
+        <item>City13</item>
+        <item>City14</item>
+        <item>City15</item>
+    </string-array>
+    
+</resources>

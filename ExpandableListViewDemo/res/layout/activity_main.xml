@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ExpandableListView
+        android:id="@+id/el_expandableListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </ExpandableListView>
+
+    <LinearLayout
+        android:id="@+id/ll_citylist_top"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#FFF1F1F1" >
+
+        <TextView
+            android:id="@+id/tv_citylist_province"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="5dp"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</FrameLayout>
